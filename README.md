@@ -9,16 +9,17 @@ The first step is fill some company information (Name, Main e-mail address, Numb
 # Made with
 
 The application made with mainly React Typescript. For styling just basic CSS.
-I gathered resource for the work from
-Youtube but the most of from:
-https://youtube.com/@javascriptmastery
-About basic questions, how should i do this/that, etc.
-https://stackoverflow.com/
-https://www.w3schools.com/
-The email validation is came from here
-https://bobbyhadz.com/blog/react-check-if-email-is-valid
-I found the background picture here
-https://www.vecteezy.com/vector-art/5909540-hexagon-abstract-modern-background-with-overlapping-triangle-decoration-small-dots-background-texture-decoration-suitable-for-backdrops-wallpapers-banners-websites-eps-10
+I gathered resource for the work from the followings.
+
+- Youtube but the most of from
+  [JavaScriptMastery](https://youtube.com/@javascriptmastery)
+- About basic questions, how should i do this/that, etc.
+  [StackOverflow](https://stackoverflow.com/)
+  [W3Schools](https://www.w3schools.com/)
+- The email validation is came from here
+  https://bobbyhadz.com/blog/react-check-if-email-is-valid
+- I found the background picture here
+  https://www.vecteezy.com/vector-art/5909540-hexagon-abstract-modern-background-with-overlapping-triangle-decoration-small-dots-background-texture-decoration-suitable-for-backdrops-wallpapers-banners-websites-eps-10
 
 # The hardest part of the project
 
