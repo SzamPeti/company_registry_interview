@@ -1,0 +1,145 @@
+.EmployeeData {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  left: 0px;
+  margin: 0px;
+  padding: 0px;
+
+  min-height: 100vh;
+}
+
+.EmployeeForm {
+  font-family: var(--font-work);
+  color: var(--color-white);
+  font-size: 14px;
+  position: relative;
+  top: 23vh;
+  left: 17vw;
+  width: 860px;
+}
+
+.SubTitle {
+  position: relative;
+  left: 13vw;
+}
+
+.Empl__name {
+  padding-bottom: 5px;
+}
+
+.EmplName {
+  height: 80px;
+  width: 860px;
+  padding-bottom: 40px;
+}
+
+#EmployeName {
+  background: #9c9c9c;
+  border-radius: 14px;
+  width: 860px;
+  height: 60px;
+  outline: none;
+  font-size: 24px;
+  padding-left: 15px;
+}
+
+.Empl__email {
+  padding-bottom: 5px;
+}
+
+.EmplEmail {
+  height: 80px;
+  width: 860px;
+  padding-bottom: 40px;
+}
+
+#EmployeeEmail {
+  background: #9c9c9c;
+  border-radius: 14px;
+  width: 860px;
+  height: 60px;
+  outline: none;
+  font-size: 24px;
+  padding-left: 15px;
+}
+
+.Empl__title {
+  padding-bottom: 5px;
+}
+
+.EmplTitle {
+  height: 80px;
+  width: 221px;
+  padding-bottom: 40px;
+}
+
+#EmployeeTitle {
+  background: #9c9c9c;
+  border-radius: 14px;
+  font-size: 24px;
+  outline: none;
+  height: 55px;
+  width: 221px;
+  padding-left: 15px;
+}
+
+.EmployeeAge {
+  padding-bottom: 5px;
+}
+
+.EmplAge {
+  height: 55px;
+  width: 221px;
+  padding-bottom: 50px;
+}
+
+#EmployeAge {
+  background: #9c9c9c;
+  border-radius: 14px;
+  height: 55px;
+  width: 236px;
+  outline: none;
+  font-size: 24px;
+  text-align: center;
+}
+
+.EmplCV {
+  border: 1px solid #ffffff;
+  border-radius: 14px;
+  padding: 6px 12px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 45px;
+  width: 215px;
+  font-size: 24px;
+  position: relative;
+  top: 1vh;
+  left: 4.2vw;
+}
+
+#EmployeeCV {
+  display: none;
+}
+
+.CV {
+  height: 55px;
+  width: 430px;
+  padding-bottom: 40px;
+}
+
+.CV p {
+  position: relative;
+  left: 4.5vw;
+}
+
+.Icon {
+  padding-right: 17px;
+}
+
+.Submit {
+  padding-top: 15px;
+  padding-left: 12px;
+}

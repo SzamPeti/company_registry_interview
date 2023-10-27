@@ -1,46 +1,52 @@
-# Getting Started with Create React App
+# Company Registry application made by React Typescript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This application help a company store there basic company information and store there workers information in a single file which can be handled in many ways.
 
-## Available Scripts
+# How it's looking
 
-In the project directory, you can run:
+The first step is fill some company information (Name, Main e-mail address, Number of employees and in case a Description). When the somebody enter the number of employees than the application will generate that many Employee Form. On the employee form need to fill the employee's name, e-mail address, age and job title. The job title can contain 4 option to choose from.
 
-### `npm start`
+# Made with
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The application made with mainly React Typescript. For styling just basic CSS.
+I gathered resource for the work from
+Youtube but the most of from:
+https://youtube.com/@javascriptmastery
+About basic questions, how should i do this/that, etc.
+https://stackoverflow.com/
+https://www.w3schools.com/
+The email validation is came from here
+https://bobbyhadz.com/blog/react-check-if-email-is-valid
+I found the background picture here
+https://www.vecteezy.com/vector-art/5909540-hexagon-abstract-modern-background-with-overlapping-triangle-decoration-small-dots-background-texture-decoration-suitable-for-backdrops-wallpapers-banners-websites-eps-10
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# The hardest part of the project
 
-### `npm test`
+Tried to implement that, when the user press on the submit button the application will wrap the data from the forms and send it. I look after it but it is so out my current knowledge than i decided to leave it out. If i could start over again than i know now how i need to build and structurise this project.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# How should it look like
 
-### `npm run build`
+![Alt text](src/assets/design.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Proudest part
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+I'm the most proud to the rendering part where the app render x number of Employee Form when the user fill the Number of Employees field.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Alt text](src/assets/proud1.png)
 
-### `npm run eject`
+![Alt text](src/assets/proud2.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# How it's working
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. We need to fill out the company data section (Company Name, Email, Description, Number of Employees)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![Alt text](src/assets/comp.png)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+2. When the Number of Employee filled out than the rest of the page will be generated. We need to write there those peoples data also.
 
-## Learn More
+![Alt text](src/assets/empl.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+When every employees data ready, just press the Submit button and the database will be updated.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Thank you for look after my project. If you have any question or want to reach out for me, my contact is the following
+E-mail: szpeter.yt@gmail.com

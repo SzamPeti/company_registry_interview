@@ -1,0 +1,14 @@
+.btn_sub {
+  background-color: #333359;
+  color: var(--color-white);
+  border-radius: 14px;
+  padding: 6px 12px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 45px;
+  width: 215px;
+  font-size: 24px;
+  border: 1px solid white;
+}

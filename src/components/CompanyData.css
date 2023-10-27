@@ -1,0 +1,125 @@
+.title {
+  font-family: var(--font-work);
+  color: var(--color-white);
+  position: relative;
+  width: 428px;
+  height: 66px;
+  left: 43vw;
+  top: 7vh;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 56px;
+}
+
+.CompanyData {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  left: 0px;
+  top: 0px;
+  margin: 0px;
+  padding: 0px;
+
+  min-height: 100vh;
+}
+
+.CompanyForm {
+  font-family: var(--font-work);
+  color: var(--color-white);
+  font-size: 14px;
+  width: 860px;
+  position: relative;
+  top: 23vh;
+  left: 35vw;
+}
+
+.Comp__name {
+  padding-bottom: 5px;
+}
+
+.CompName {
+  height: 80px;
+  width: 860px;
+  padding-bottom: 45px;
+}
+
+#CompanyName {
+  background: #9c9c9c;
+  border-radius: 14px;
+  width: 860px;
+  height: 60px;
+  outline: none;
+  font-size: 24px;
+  padding-left: 15px;
+}
+
+.Comp__email {
+  padding-bottom: 5px;
+}
+
+.CompEmail {
+  height: 80px;
+  width: 860px;
+  padding-bottom: 36px;
+}
+
+#CompanyEmail {
+  background: #9c9c9c;
+  border-radius: 14px;
+  width: 860px;
+  height: 60px;
+  outline: none;
+  font-size: 24px;
+  padding-left: 15px;
+}
+
+.CompEmploy {
+  line-height: 28px;
+}
+
+.NmbEmpl {
+  height: 80px;
+  width: 221px;
+  padding-bottom: 36px;
+}
+
+#CompanyNumber {
+  background: #9c9c9c;
+  border-radius: 14px;
+  font-size: 24px;
+  outline: none;
+  height: 55px;
+  width: 221px;
+  text-align: center;
+}
+
+.CompDescr {
+  line-height: 30px;
+}
+
+.Descr {
+  height: 255px;
+  width: 860px;
+}
+
+#CompanyDescription {
+  background: #9c9c9c;
+  border-radius: 14px;
+  width: 860px;
+  height: 215px;
+  outline: none;
+  font-size: 24px;
+  padding-top: 10px;
+  padding-left: 15px;
+  resize: none;
+  scroll-behavior: smooth;
+}
+
+.NumError {
+  width: 470px;
+  text-align: center;
+  position: relative;
+  left: -4.5vw;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
